@@ -1,8 +1,22 @@
-# React + Vite
+🚀 Live Demo: [Movie Search App](https://movie-app-rakib-hassan-nayems-projects.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack:
+- React 19 + Vite
+- TailwindCSS for modern, responsive design
+- TMDB API integration
+- Appwrite Backend-as-a-Service
+- Deployed on Vercel
 
-Currently, two official plugins are available:
+✨ Key Features:
+- Real-time movie search with debouncing
+- Trending movies display
+- Responsive design for all devices
+- Search history tracking
+- Modern UI/UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 This project demonstrates my skills in:
+- Frontend Development
+- API Integration
+- State Management
+- Backend Integration
+- Performance Optimization
